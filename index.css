@@ -1,0 +1,18 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	font-family: sans-serif;
+}
+.navmenu
+{
+	font-size: 20px;
+	color:darkolivegreen;
+	font-weight: bolder;
+}
+.logo
+{
+	font-size: 30px;
+	font-family: Elephant;
+	font-variant: small-caps;
+	color:purple;
+}
